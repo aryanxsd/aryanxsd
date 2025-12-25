@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Priyanshu Aryan 👋</h1>
-<h3 align="center">Blockchain Engineer • Full-Stack • Backend Systems</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Priyanshu+Aryan;Blockchain+Engineer;Full-Stack+%26+Backend+Systems;Building+Production-Grade+Distributed+Systems" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanxsd&style=flat&color=blue" />
@@ -7,52 +8,37 @@
 
 ---
 
-## 🧠 About Me
+##  Engineering Profile
 
-I’m a blockchain engineer with strong full-stack and backend foundations.  
-I build decentralized systems end-to-end — from smart contracts and protocol logic  
-to APIs, databases, and production-ready frontends.
+**Role:** Blockchain Engineer  
+**Focus:** Protocols · Backend · Full-Stack Systems  
+**Mindset:** Security-first · Performance-driven · Production-ready  
 
-My focus is correctness, security, scalability, and clean system design —  
-not just writing contracts, but shipping reliable software.
+I design and ship **end-to-end decentralized systems** —  
+from **smart contracts and protocol logic** to **backend services, APIs, databases, and frontends**.
 
----
-
-## ⚙️ What I Work On
-
-- Smart contracts & protocol design (security-first)
-- Backend services & APIs for on-chain systems
-- Full-stack dApp development (frontend → backend → blockchain)
-- Distributed systems, data consistency, and failure handling
+I don’t build demos.  
+I build **systems that survive real users, real money, and real failures**.
 
 ---
 
-## 🛠 Tech Stack
+##  What I Engineer
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,react,nextjs,nodejs,postgres,redis,docker,git" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat,ipfs" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=500&color=7CFC00&center=true&vCenter=true&width=900&lines=Smart+Contracts+%7C+Protocol+Security;Backend+APIs+%7C+Workers+%7C+Indexers;Full-Stack+dApps+%7C+Production+UX;Distributed+Systems+%7C+Consistency+%7C+Failure+Handling" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanxsd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&include_all_commits=true&count_private=true" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,react,nextjs,nodejs,postgres,redis,docker,git,solidity,ethereum" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanxsd&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
-## 📈 Activity Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanxsd&theme=tokyo-night&hide_border=true" />
@@ -60,7 +46,7 @@ not just writing contracts, but shipping reliable software.
 
 ---
 
-## 🐍 Contribution Snake
+##  Consistency
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryanxsd/aryanxsd/output/github-contribution-grid-snake.svg" />
@@ -68,31 +54,31 @@ not just writing contracts, but shipping reliable software.
 
 ---
 
-## 🚀 Featured Projects
+##  Selected Work
 
-- **Cross-Chain Attack Simulation & Mitigation**  
-  Protocol-level vulnerability research with reproducible PoCs and mitigation design.
+**Cross-Chain Attack Simulation & Mitigation**  
+Protocol-level vulnerability research with reproducible PoCs and mitigation design.
 
-- **Decentralized E-Voting System**  
-  Full-stack dApp demonstrating smart contracts, backend logic, and scalability testing.
+**Decentralized E-Voting System**  
+Secure, scalable dApp demonstrating smart contracts, backend logic, and system design.
 
-- **AgriGPT – AI Assistant**  
-  Production-ready AI web app with multilingual support, speech recognition, and APIs.
+**AgriGPT — AI Assistant**  
+Production-ready AI web app with multilingual support, speech recognition, and APIs.
 
-- **Payment Gateway (Freelance)**  
-  Full-stack payment module handling 2,000+ test transactions with fault tolerance.
-
----
-
-## 🎓 Background
-
-- **B.Tech – Electronics & Computer Engineering**  
-  Amrita School of Engineering, Bengaluru  
-- Strong CS foundation: Algorithms, OS, DBMS, Software Engineering
+**Payment Gateway (Freelance)**  
+Fault-tolerant full-stack payment system handling thousands of test transactions.
 
 ---
 
-## 📫 Connect
+##  Foundation
+
+- B.Tech — Electronics & Computer Engineering  
+- Algorithms · OS · DBMS · Software Engineering  
+- Strong focus on correctness and security  
+
+---
+
+##  Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-aaryan-563b73254/">
